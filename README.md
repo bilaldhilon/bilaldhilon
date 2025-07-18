@@ -12,6 +12,7 @@
 - 🌟 Currently serving as:
   - 🚀 **Technology Co-Head** at our University Software Society
   - 💼 **Devsinc Ambassador**, representing one of Pakistan’s leading software houses
+  - 💼 **IEEE Ambassador**, representing IEEE events
 - 🧠 Passionate about:
   - 💻 C++, Python, Web Development
   - 🤖 AI-based Software Projects
