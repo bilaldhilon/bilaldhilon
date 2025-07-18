@@ -8,7 +8,7 @@
 ---
 
 ### 💫 About Me:
-- 🎓 I'm a 6th Semester **BSCS student** at **FAST NUCES Faisalabad-Chiniot Campus**
+- 🎓 I'm a final year **BSCS student** at **FAST NUCES Faisalabad-Chiniot Campus**
 - 🌟 Currently serving as:
   - 🚀 **Technology Co-Head** at our University Software Society
   - 💼 **Devsinc Ambassador**, representing one of Pakistan’s leading software houses
